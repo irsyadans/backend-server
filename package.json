@@ -20,6 +20,8 @@
   "description": "",
   "dependencies": {
     "@hapi/hapi": "^21.3.2",
+    "cors": "^2.8.5",
+    "hapi-cors": "^1.0.3",
     "pg": "^8.11.0"
   }
 }
